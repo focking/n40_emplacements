@@ -1,5 +1,7 @@
-# N40_Emplacements
-Emplacement Base for N40<br>
+# aabb_Emplacements
+Emplacement Base for Garry's Mod<br>
+
+Custom ballistics, ACT3 integration, ammunition cook-off, backblast simulation and more
 
 Current weapon list:<br>
 - SPG-9<br>
